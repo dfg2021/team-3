@@ -19,3 +19,8 @@ We focused our analysis on Focus on the indicator 4.4.1: Proportion of youth and
 4. The magnitude of this discrepancy varies by country 
 5. A KNN model showed the best accuracy in predicting proportion of individuals who were able to successfully complete the skills
 
+### Documents contained in this github folder:
+- `Leah_Hackathon_AI_ML.ipynb`
+- `Koral_Modeling.ipynb`
+- `Henry Data Analysis.ipynb`
+
